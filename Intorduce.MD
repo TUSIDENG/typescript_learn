@@ -7,7 +7,7 @@ The main reason for using TypeScript is to add static typing to JavaScript. Stat
 ## Project TypeScrpit Config
 
 ### 项目类型配置文件
-使用npm需要配置如下package.json文件,使用npx不用配置，因为npx可以自动执行tsc命令。
+使用npm run 命令需要配置如下package.json文件,使用npx不用配置，因为npx可以自动执行tsc命令。
 package.json
 ```json
 "scripts": {
